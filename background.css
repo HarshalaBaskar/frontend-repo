@@ -1,0 +1,11 @@
+.demo{
+  background:url(../download.jpg);
+  
+  height: 1000px;
+  width: 1000px;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size:  300px 200px;
+  background-size: 500px;
+} 
